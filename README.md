@@ -1,0 +1,1 @@
+A Java Console-Based College Fee Management System designed to manage student fee records efficiently using a database. This project helps colleges track student details, fee structure, payments, and pending balances.
